@@ -1,0 +1,10 @@
+name: ImmersiveResources
+version: ${project.version}
+main: net.lordofthecraft.immersiveresources.ImmersiveResources
+api-version: 1.13
+prefix: "[ImmersiveResources]"
+depend: [WorldGuard, WorldEdit, Tythan]
+softdepend: [LWC]
+authors: [Korvic]
+description: A set of tools for creating and managing alternate resource options for players.
+website: https://www.lordofthecraft.net/
